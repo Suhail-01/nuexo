@@ -5,7 +5,7 @@ import { ResponsiveGrid } from '../components/ResponsiveGrid';
 import { MediaCard } from '../components/MediaCard';
 import Button from '../components/Button';
 import { getCourseImage } from '../lib/courseImages';
-import heroImage from '../assets/images/image copy.png';
+import heroImage from '../assets/images/hero-image.png';
 
 const Home = () => {
   const features = [
